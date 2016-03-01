@@ -1,0 +1,15 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/adc.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/clock-cpg.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/clock.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/fpu.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/hwblk.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/init.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+D/irq////
+D/sh2////
+D/sh2a////
+D/sh3////
+D/sh4////
+D/sh4a////
+D/sh5////
+D/shmobile////

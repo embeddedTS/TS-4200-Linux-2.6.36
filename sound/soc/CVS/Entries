@@ -1,0 +1,24 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/soc-cache.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/soc-core.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/soc-dapm.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/soc-jack.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/soc-utils.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+D/atmel////
+D/au1x////
+D/blackfin////
+D/codecs////
+D/davinci////
+D/ep93xx////
+D/fsl////
+D/imx////
+D/jz4740////
+D/kirkwood////
+D/nuc900////
+D/omap////
+D/pxa////
+D/s3c24xx////
+D/s6000////
+D/sh////
+D/txx9////

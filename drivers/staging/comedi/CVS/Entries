@@ -1,0 +1,16 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/TODO/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedi.h/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedi_compat32.c/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedi_compat32.h/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedi_fops.c/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedi_fops.h/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedidev.h/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/comedilib.h/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/drivers.c/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/internal.h/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/proc.c/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+/range.c/1.1.1.1/Fri Jan  7 00:24:44 2011/-ko/
+D/drivers////
+D/kcomedilib////

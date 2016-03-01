@@ -1,0 +1,11 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/atomic.S/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/coreb.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/dma.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/hotplug.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/ints-priority.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/secondary.S/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/smp.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+D/boards////
+D/include////

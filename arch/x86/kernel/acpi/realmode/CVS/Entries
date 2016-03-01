@@ -1,0 +1,14 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/bioscall.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/copy.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/regs.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/video-bios.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/video-mode.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/video-vesa.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/video-vga.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakemain.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakeup.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakeup.h/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakeup.lds.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D

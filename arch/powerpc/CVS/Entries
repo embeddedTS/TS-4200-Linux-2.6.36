@@ -1,0 +1,16 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/Kconfig.debug/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/relocs_check.pl/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+D/boot////
+D/configs////
+D/include////
+D/kernel////
+D/kvm////
+D/lib////
+D/math-emu////
+D/mm////
+D/oprofile////
+D/platforms////
+D/sysdev////
+D/xmon////

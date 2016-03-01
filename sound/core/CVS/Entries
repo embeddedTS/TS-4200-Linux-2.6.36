@@ -1,0 +1,34 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/control.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/control_compat.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/device.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/hrtimer.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/hwdep.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/hwdep_compat.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/info.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/info_oss.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/init.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/isadma.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/jack.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/memalloc.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/memory.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/misc.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_compat.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_lib.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_memory.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_misc.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_native.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_timer.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/rawmidi.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/rawmidi_compat.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/rtctimer.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/sgbuf.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/sound.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/sound_oss.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/timer.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/timer_compat.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/vmaster.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+D/oss////
+D/seq////

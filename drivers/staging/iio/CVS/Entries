@@ -1,0 +1,23 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/TODO/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/chrdev.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/iio.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/industrialio-core.c/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/industrialio-ring.c/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/industrialio-trigger.c/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/ring_generic.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/ring_hw.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/ring_sw.c/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/ring_sw.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/sysfs.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/trigger.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+/trigger_consumer.h/1.1.1.1/Fri Jan  7 00:24:43 2011/-ko/
+D/Documentation////
+D/accel////
+D/adc////
+D/gyro////
+D/imu////
+D/light////
+D/magnetometer////
+D/trigger////

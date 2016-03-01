@@ -1,0 +1,23 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/buffer.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/config.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/devices.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/devio.c/1.2/Fri Jan  7 01:18:11 2011/-ko/
+/driver.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/endpoint.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/file.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/generic.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/hcd-pci.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/hcd.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/hub.c/1.2/Fri Jan  7 01:18:11 2011/-ko/
+/inode.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/message.c/1.2/Fri Jan  7 01:18:11 2011/-ko/
+/notify.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/otg_whitelist.h/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/quirks.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/sysfs.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/urb.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/usb.c/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+/usb.h/1.1.1.1/Fri Jan  7 00:24:31 2011/-ko/
+D

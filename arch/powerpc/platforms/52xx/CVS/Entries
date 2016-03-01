@@ -1,0 +1,17 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/efika.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/lite5200.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/lite5200_pm.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/lite5200_sleep.S/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/media5200.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc5200_simple.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_common.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_gpio.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_gpt.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_lpbfifo.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_pci.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_pic.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_pm.c/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+/mpc52xx_sleep.S/1.1.1.1/Fri Jan  7 00:24:56 2011/-ko/
+D

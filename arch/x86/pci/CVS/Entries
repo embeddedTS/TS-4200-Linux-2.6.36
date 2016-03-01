@@ -1,0 +1,23 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/acpi.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/amd_bus.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/broadcom_bus.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/bus_numa.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/bus_numa.h/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/common.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/direct.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/early.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/fixup.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/i386.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/init.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/irq.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/legacy.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/mmconfig-shared.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/mmconfig_32.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/mmconfig_64.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/mrst.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/numaq_32.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/olpc.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/pcbios.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/visws.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+D

@@ -1,0 +1,33 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/amd.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/bugs.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/bugs_64.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/centaur.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/common.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/cpu.h/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/cyrix.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/hypervisor.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/intel.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/intel_cacheinfo.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/mkcapflags.pl/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/mshyperv.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perf_event.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perf_event_amd.c/1.2/Fri Jan  7 01:18:07 2011/-ko/
+/perf_event_intel.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perf_event_intel_ds.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perf_event_intel_lbr.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perf_event_p4.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perf_event_p6.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/perfctr-watchdog.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/powerflags.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/proc.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/scattered.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/sched.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/topology.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/transmeta.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/umc.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/vmware.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D/cpufreq////
+D/mcheck////
+D/mtrr////

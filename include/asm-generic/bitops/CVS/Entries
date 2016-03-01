@@ -1,0 +1,20 @@
+/__ffs.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/__fls.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/arch_hweight.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/atomic.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/const_hweight.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/ext2-atomic.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/ext2-non-atomic.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/ffs.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/ffz.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/find.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/fls.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/fls64.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/hweight.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/le.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/lock.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/minix-le.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/minix.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/non-atomic.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/sched.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+D

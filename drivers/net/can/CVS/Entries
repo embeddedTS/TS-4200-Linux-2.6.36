@@ -1,0 +1,13 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/at91_can.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/bfin_can.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/dev.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/flexcan.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/janz-ican3.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/mcp251x.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/ti_hecc.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+/vcan.c/1.1.1.1/Fri Jan  7 00:24:37 2011/-ko/
+D/mscan////
+D/sja1000////
+D/usb////

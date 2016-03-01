@@ -1,0 +1,32 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-edosk7760.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-espt.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-magicpanelr2.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-polaris.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-sh7785lcr.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-shmin.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-titan.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/board-urquell.c/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+D/mach-ap325rxa////
+D/mach-cayman////
+D/mach-dreamcast////
+D/mach-ecovec24////
+D/mach-edosk7705////
+D/mach-highlander////
+D/mach-hp6xx////
+D/mach-kfr2r09////
+D/mach-landisk////
+D/mach-lboxre2////
+D/mach-microdev////
+D/mach-migor////
+D/mach-r2d////
+D/mach-rsk////
+D/mach-sdk7780////
+D/mach-sdk7786////
+D/mach-se////
+D/mach-sh03////
+D/mach-sh7763rdp////
+D/mach-snapgear////
+D/mach-systemh////
+D/mach-x3proto////

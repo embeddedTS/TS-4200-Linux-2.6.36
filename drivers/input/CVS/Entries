@@ -1,0 +1,24 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/apm-power.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/evbug.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/evdev.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/ff-core.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/ff-memless.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/fixp-arith.h/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/input-compat.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/input-compat.h/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/input-polldev.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/input.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/joydev.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/mousedev.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/sparse-keymap.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+/xen-kbdfront.c/1.1.1.1/Fri Jan  7 00:24:33 2011/-ko/
+D/gameport////
+D/joystick////
+D/keyboard////
+D/misc////
+D/mouse////
+D/serio////
+D/tablet////
+D/touchscreen////

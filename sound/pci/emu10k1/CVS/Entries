@@ -1,0 +1,23 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1_callback.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1_main.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1_patch.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1_synth.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1_synth_local.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu10k1x.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emufx.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emumixer.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emumpu401.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emupcm.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emuproc.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/io.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/irq.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/memory.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/p16v.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/p16v.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/p17v.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/timer.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/tina2.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/voice.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+D

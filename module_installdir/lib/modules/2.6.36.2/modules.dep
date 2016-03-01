@@ -1,0 +1,73 @@
+kernel/fs/nfs_common/nfs_acl.ko:
+kernel/fs/reiserfs/reiserfs.ko:
+kernel/fs/ext4/ext4.ko: kernel/fs/jbd2/jbd2.ko kernel/lib/crc16.ko
+kernel/fs/jbd2/jbd2.ko:
+kernel/fs/fat/fat.ko: kernel/fs/nls/nls_base.ko
+kernel/fs/fat/vfat.ko: kernel/fs/fat/fat.ko kernel/fs/nls/nls_base.ko
+kernel/fs/fat/msdos.ko: kernel/fs/fat/fat.ko kernel/fs/nls/nls_base.ko
+kernel/fs/unionfs/unionfs.ko:
+kernel/fs/exportfs/exportfs.ko:
+kernel/fs/nfsd/nfsd.ko: kernel/fs/nfs_common/nfs_acl.ko kernel/fs/exportfs/exportfs.ko
+kernel/fs/nls/nls_base.ko:
+kernel/fs/nls/nls_cp437.ko: kernel/fs/nls/nls_base.ko
+kernel/fs/nls/nls_cp850.ko: kernel/fs/nls/nls_base.ko
+kernel/fs/nls/nls_iso8859-1.ko: kernel/fs/nls/nls_base.ko
+kernel/fs/cifs/cifs.ko: kernel/fs/nls/nls_base.ko
+kernel/fs/jfs/jfs.ko: kernel/fs/nls/nls_base.ko
+kernel/fs/xfs/xfs.ko: kernel/fs/exportfs/exportfs.ko
+kernel/crypto/ecb.ko:
+kernel/crypto/aes_generic.ko:
+kernel/crypto/arc4.ko:
+kernel/drivers/serial/8250.ko:
+kernel/drivers/serial/ts4200_isa16550.ko: kernel/drivers/serial/8250.ko
+kernel/drivers/block/loop.ko:
+kernel/drivers/misc/eeprom/eeprom_93cx6.ko:
+kernel/drivers/net/wireless/zd1211rw/zd1211rw.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/net/mac80211/mac80211.ko kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/rtl818x/rtl8187.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/net/mac80211/mac80211.ko kernel/net/wireless/cfg80211.ko kernel/drivers/misc/eeprom/eeprom_93cx6.ko
+kernel/drivers/net/wireless/zd1201.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/wireless/libertas/libertas.ko: kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/libertas/usb8xxx.ko: kernel/drivers/net/wireless/libertas/libertas.ko kernel/net/wireless/cfg80211.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/wireless/rt2x00/rt2x00lib.ko: kernel/net/mac80211/mac80211.ko kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/rt2x00/rt2x00usb.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/drivers/net/wireless/rt2x00/rt2x00lib.ko kernel/net/mac80211/mac80211.ko kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/rt2x00/rt2500usb.ko: kernel/drivers/net/wireless/rt2x00/rt2x00usb.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/drivers/net/wireless/rt2x00/rt2x00lib.ko kernel/net/mac80211/mac80211.ko kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/rt2x00/rt73usb.ko: kernel/lib/crc-itu-t.ko kernel/drivers/net/wireless/rt2x00/rt2x00usb.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/drivers/net/wireless/rt2x00/rt2x00lib.ko kernel/net/mac80211/mac80211.ko kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/ath/ar9170/ar9170usb.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/net/mac80211/mac80211.ko kernel/drivers/net/wireless/ath/ath.ko kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/wireless/ath/ath.ko: kernel/net/wireless/cfg80211.ko
+kernel/drivers/net/ax88796.ko:
+kernel/drivers/net/ax88796b.ko:
+kernel/drivers/net/ppp_generic.ko: kernel/drivers/net/slhc.ko
+kernel/drivers/net/ppp_async.ko: kernel/drivers/net/ppp_generic.ko kernel/drivers/net/slhc.ko kernel/lib/crc-ccitt.ko
+kernel/drivers/net/ppp_deflate.ko: kernel/lib/zlib_deflate/zlib_deflate.ko kernel/drivers/net/ppp_generic.ko kernel/drivers/net/slhc.ko
+kernel/drivers/net/slhc.ko:
+kernel/drivers/net/usb/asix.ko: kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/cdc_ether.ko: kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/smsc75xx.ko: kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/smsc95xx.ko: kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/net1080.ko: kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/cdc_subset.ko: kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/zaurus.ko: kernel/drivers/net/usb/cdc_ether.ko kernel/drivers/net/usb/usbnet.ko kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/net/usb/usbnet.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/input/input-polldev.ko:
+kernel/drivers/scsi/scsi_mod.ko:
+kernel/drivers/scsi/sd_mod.ko: kernel/drivers/scsi/scsi_mod.ko
+kernel/drivers/scsi/scsi_wait_scan.ko:
+kernel/drivers/usb/core/usbcore.ko: kernel/fs/nls/nls_base.ko
+kernel/drivers/usb/host/ohci-hcd.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko
+kernel/drivers/usb/storage/usb-storage.ko: kernel/drivers/usb/core/usbcore.ko kernel/fs/nls/nls_base.ko kernel/drivers/scsi/scsi_mod.ko
+kernel/drivers/usb/gadget/at91_udc.ko:
+kernel/drivers/usb/gadget/g_zero.ko: kernel/drivers/usb/gadget/at91_udc.ko
+kernel/drivers/usb/gadget/g_ether.ko: kernel/drivers/usb/gadget/at91_udc.ko
+kernel/drivers/usb/gadget/g_file_storage.ko: kernel/drivers/usb/gadget/at91_udc.ko
+kernel/drivers/usb/gadget/g_serial.ko: kernel/drivers/usb/gadget/at91_udc.ko
+kernel/drivers/usb/gadget/g_cdc.ko: kernel/drivers/usb/gadget/at91_udc.ko
+kernel/drivers/mmc/core/mmc_core.ko:
+kernel/drivers/mmc/card/mmc_block.ko: kernel/drivers/mmc/core/mmc_core.ko
+kernel/drivers/mmc/host/at91_mci.ko: kernel/drivers/mmc/core/mmc_core.ko
+kernel/net/ipv6/ipv6.ko:
+kernel/net/wireless/cfg80211.ko:
+kernel/net/wireless/lib80211.ko:
+kernel/net/mac80211/mac80211.ko: kernel/net/wireless/cfg80211.ko
+kernel/lib/crc-ccitt.ko:
+kernel/lib/crc16.ko:
+kernel/lib/crc-itu-t.ko:
+kernel/lib/zlib_deflate/zlib_deflate.ko:

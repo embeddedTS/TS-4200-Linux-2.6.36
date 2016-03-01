@@ -1,0 +1,10 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/Kconfig/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/gen_init_cpio.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/initramfs_data.S/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/initramfs_data.bz2.S/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/initramfs_data.gz.S/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/initramfs_data.lzma.S/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/initramfs_data.lzo.S/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+D

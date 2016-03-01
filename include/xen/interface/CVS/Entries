@@ -1,0 +1,14 @@
+/callback.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/elfnote.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/event_channel.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/features.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/grant_table.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/memory.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/physdev.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/sched.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/vcpu.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/version.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/xen.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+/xencomm.h/1.1.1.1/Fri Jan  7 00:25:04 2011/-ko/
+D/hvm////
+D/io////

@@ -1,0 +1,17 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/Makefile.boot/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/clock.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/cpu.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/headsmp.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/init.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/irq-combiner.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/localtimer.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/mach-smdkv310.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/mach-universal_c210.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/platsmp.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/setup-i2c0.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/setup-i2c1.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/setup-i2c2.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/time.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+D/include////

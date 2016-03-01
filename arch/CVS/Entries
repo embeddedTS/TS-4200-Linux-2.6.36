@@ -1,0 +1,26 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D/alpha////
+D/arm////
+D/avr32////
+D/blackfin////
+D/cris////
+D/frv////
+D/h8300////
+D/ia64////
+D/m32r////
+D/m68k////
+D/m68knommu////
+D/microblaze////
+D/mips////
+D/mn10300////
+D/parisc////
+D/powerpc////
+D/s390////
+D/score////
+D/sh////
+D/sparc////
+D/tile////
+D/um////
+D/x86////
+D/xtensa////

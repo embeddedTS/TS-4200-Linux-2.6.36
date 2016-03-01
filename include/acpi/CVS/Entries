@@ -1,0 +1,24 @@
+/acexcep.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acnames.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acoutput.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acpi.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acpi_bus.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acpi_drivers.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acpi_numa.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acpiosxf.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acpixf.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/acrestyp.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/actbl.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/actbl1.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/actbl2.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/actypes.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/apei.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/atomicio.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/button.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/container.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/hed.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/pdc_intel.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/processor.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/reboot.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/video.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+D/platform////

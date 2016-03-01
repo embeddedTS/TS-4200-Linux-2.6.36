@@ -1,0 +1,8 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/int80.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/note.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/sigreturn.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/syscall.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/sysenter.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/vdso32.lds.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D

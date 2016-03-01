@@ -1,0 +1,17 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/aes-i586-asm_32.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/aes-x86_64-asm_64.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/aes_glue.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/aesni-intel_asm.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/aesni-intel_glue.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/crc32c-intel.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/fpu.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/ghash-clmulni-intel_asm.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/ghash-clmulni-intel_glue.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/salsa20-i586-asm_32.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/salsa20-x86_64-asm_64.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/salsa20_glue.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/twofish-i586-asm_32.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/twofish-x86_64-asm_64.S/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/twofish_glue.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+D

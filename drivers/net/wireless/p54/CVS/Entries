@@ -1,0 +1,19 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/eeprom.c/1.2/Fri Jan  7 01:18:10 2011/-ko/
+/eeprom.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/fwio.c/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/led.c/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/lmac.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/main.c/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/net2280.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54pci.c/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54pci.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54spi.c/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54spi.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54spi_eeprom.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/p54usb.c/1.2/Fri Jan  7 01:18:10 2011/-ko/
+/p54usb.h/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+/txrx.c/1.1.1.1/Fri Jan  7 00:24:36 2011/-ko/
+D

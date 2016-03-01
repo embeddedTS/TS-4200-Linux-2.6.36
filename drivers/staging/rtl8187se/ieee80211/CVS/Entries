@@ -1,0 +1,15 @@
+/dot11d.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/dot11d.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_crypt.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_crypt.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_crypt_ccmp.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_crypt_tkip.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_crypt_wep.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_module.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_rx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_softmac.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_softmac_wx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_tx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ieee80211_wx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+D

@@ -1,0 +1,4 @@
+/deref_null.cocci/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/err_cast.cocci/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/resource_size.cocci/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+D/alloc////

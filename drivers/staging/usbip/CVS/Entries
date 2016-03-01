@@ -1,0 +1,17 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/README/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/stub.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/stub_dev.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/stub_main.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/stub_rx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/stub_tx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/usbip_common.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/usbip_common.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/usbip_event.c/1.2/Fri Jan  7 01:18:11 2011/-ko/
+/vhci.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/vhci_hcd.c/1.2/Fri Jan  7 01:18:11 2011/-ko/
+/vhci_rx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/vhci_sysfs.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/vhci_tx.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+D

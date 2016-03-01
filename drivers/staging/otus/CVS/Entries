@@ -1,0 +1,24 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/TODO/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/apdbg.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/athr_common.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/ioctl.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/oal_dt.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/oal_marc.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/usbdrv.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/usbdrv.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_buf.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_dbg.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_ev.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_mem.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_mis.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_pkt.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_sec.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wrap_usb.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/wwrap.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/zdcompat.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/zdusb.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/zdusb.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+D/80211core////
+D/hal////

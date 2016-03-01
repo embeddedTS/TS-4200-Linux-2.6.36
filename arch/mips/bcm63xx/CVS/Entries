@@ -1,0 +1,18 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/Platform/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/clk.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/cpu.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/cs.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/dev-dsp.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/dev-enet.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/dev-pcmcia.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/dev-uart.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/dev-wdt.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/early_printk.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/gpio.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/irq.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/prom.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/setup.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+/timer.c/1.1.1.1/Fri Jan  7 00:24:55 2011/-ko/
+D/boards////

@@ -1,0 +1,26 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/acpi-cpufreq.c/1.2/Fri Jan  7 01:18:07 2011/-ko/
+/cpufreq-nforce2.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/e_powersaver.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/elanfreq.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/gx-suspmod.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/longhaul.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/longhaul.h/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/longrun.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/mperf.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/mperf.h/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/p4-clockmod.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/pcc-cpufreq.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/powernow-k6.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/powernow-k7.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/powernow-k7.h/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/powernow-k8.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/powernow-k8.h/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/sc520_freq.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/speedstep-centrino.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/speedstep-ich.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/speedstep-lib.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/speedstep-lib.h/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+/speedstep-smi.c/1.1.1.1/Fri Jan  7 00:24:52 2011/-ko/
+D

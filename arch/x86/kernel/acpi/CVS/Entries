@@ -1,0 +1,9 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/boot.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/cstate.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/sleep.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/sleep.h/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakeup_32.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakeup_64.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wakeup_rm.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D/realmode////

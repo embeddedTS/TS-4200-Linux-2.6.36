@@ -1,0 +1,26 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_beep.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_beep.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_codec.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/hda_codec.h/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/hda_eld.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_generic.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_hwdep.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_intel.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/hda_local.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/hda_proc.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_analog.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/patch_atihdmi.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_ca0110.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/patch_cirrus.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_cmedia.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_conexant.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/patch_hdmi.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_intelhdmi.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_nvhdmi.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_realtek.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/patch_si3054.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/patch_sigmatel.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/patch_via.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+D

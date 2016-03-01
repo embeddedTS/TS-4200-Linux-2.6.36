@@ -1,0 +1,20 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/at32ap700x.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/clock.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/clock.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/cpufreq.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/extint.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/hmatrix.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/hsmc.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/hsmc.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/intc.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/intc.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/pdc.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/pio.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/pio.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/pm-at32ap700x.S/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/pm.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/pm.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/sdramc.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+D/include////

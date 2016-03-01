@@ -1,0 +1,13 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/aes_s390.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/crypt_s390.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/crypto_des.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/des_check_key.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/des_s390.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/prng.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/sha.h/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/sha1_s390.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/sha256_s390.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/sha512_s390.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+/sha_common.c/1.1.1.1/Fri Jan  7 00:24:54 2011/-ko/
+D

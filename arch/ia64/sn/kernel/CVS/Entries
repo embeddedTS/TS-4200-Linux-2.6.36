@@ -1,0 +1,18 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/bte.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/bte_error.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/huberror.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/idle.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/io_acpi_init.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/io_common.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/io_init.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/iomv.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irq.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/klconflib.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/machvec.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/mca.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/msi_sn.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/pio_phys.S/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/setup.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/tiocx.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D/sn2////

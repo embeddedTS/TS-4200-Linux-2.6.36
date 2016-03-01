@@ -1,0 +1,18 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu8000.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu8000_callback.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu8000_local.h/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu8000_patch.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu8000_pcm.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/emu8000_synth.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/jazz16.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb16.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb16_csp.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb16_main.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb8.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb8_main.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb8_midi.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb_common.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sb_mixer.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+/sbawe.c/1.1.1.1/Fri Jan  7 00:25:01 2011/-ko/
+D

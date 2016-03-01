@@ -1,0 +1,17 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/Kconfig.cpu/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/Kconfig.debug/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:57 2011/-ko/
+D/boards////
+D/boot////
+D/cchips////
+D/configs////
+D/drivers////
+D/include////
+D/kernel////
+D/lib////
+D/lib64////
+D/math-emu////
+D/mm////
+D/oprofile////
+D/tools////

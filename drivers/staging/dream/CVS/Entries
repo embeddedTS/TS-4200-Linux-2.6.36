@@ -1,0 +1,15 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/TODO/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/generic_gpio.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/gpio_axis.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/gpio_event.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/gpio_input.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/gpio_matrix.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/gpio_output.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/pmem.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/synaptics_i2c_rmi.c/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+/synaptics_i2c_rmi.h/1.1.1.1/Fri Jan  7 00:24:42 2011/-ko/
+D/camera////
+D/include////
+D/qdsp5////

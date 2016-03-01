@@ -1,0 +1,3 @@
+/drop_kmalloc_cast.cocci/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/kzalloc-simple.cocci/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+D

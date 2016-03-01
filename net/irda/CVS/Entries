@@ -1,0 +1,27 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/af_irda.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/discovery.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irda_device.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/iriap.c/1.2/Fri Jan  7 01:18:13 2011/-ko/
+/iriap_event.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irias_object.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irlap.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irlap_event.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irlap_frame.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irlmp.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irlmp_event.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irlmp_frame.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irmod.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irnetlink.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irproc.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irqueue.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irsysctl.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/irttp.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/parameters.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/qos.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/timer.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/wrapper.c/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D/ircomm////
+D/irlan////
+D/irnet////

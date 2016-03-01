@@ -1,0 +1,26 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/bus.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/bus.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/core.c/1.2/Fri Jan  7 01:18:09 2011/-ko/
+/core.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/debugfs.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/host.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/host.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/mmc.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/mmc_ops.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/mmc_ops.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sd.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sd.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sd_ops.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sd_ops.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_bus.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_bus.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_cis.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_cis.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_io.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_irq.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_ops.c/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+/sdio_ops.h/1.1.1.1/Fri Jan  7 00:24:39 2011/-ko/
+D

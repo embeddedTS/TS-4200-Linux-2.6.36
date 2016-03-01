@@ -1,0 +1,33 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/card.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/card.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/clock.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/clock.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/debug.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/endpoint.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/endpoint.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/format.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/format.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/helper.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/helper.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/midi.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/midi.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/mixer.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/mixer.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/mixer_maps.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/mixer_quirks.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/mixer_quirks.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/pcm.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/pcm.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/proc.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/proc.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/quirks-table.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/quirks.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/quirks.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/urb.c/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/urb.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+/usbaudio.h/1.1.1.1/Fri Jan  7 00:24:59 2011/-ko/
+D/caiaq////
+D/misc////
+D/usx2y////

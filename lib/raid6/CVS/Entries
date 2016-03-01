@@ -1,0 +1,13 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/algos.c/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/altivec.uc/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/int.uc/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/mktables.c/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/mmx.c/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/recov.c/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/sse1.c/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/sse2.c/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/unroll.awk/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+/x86.h/1.1.1.1/Fri Jan  7 00:25:06 2011/-ko/
+D/test////

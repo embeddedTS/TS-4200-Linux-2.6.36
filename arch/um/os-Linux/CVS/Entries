@@ -1,0 +1,25 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/aio.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/elf_aux.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/execvp.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/file.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/helper.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/irq.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/main.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/mem.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/process.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/registers.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/sigio.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/signal.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/start_up.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/time.c/1.2/Fri Jan  7 01:18:07 2011/-ko/
+/tls.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/tty.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/uaccess.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/umid.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/user_syms.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/util.c/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+D/drivers////
+D/skas////
+D/sys-i386////
+D/sys-x86_64////

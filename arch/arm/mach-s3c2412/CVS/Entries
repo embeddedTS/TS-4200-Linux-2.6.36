@@ -1,0 +1,14 @@
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/clock.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/cpu-freq.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/dma.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/gpio.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/irq.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/mach-jive.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/mach-smdk2413.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/mach-vstms.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/pm.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/s3c2412.c/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+/sleep.S/1.1.1.1/Fri Jan  7 00:24:53 2011/-ko/
+D

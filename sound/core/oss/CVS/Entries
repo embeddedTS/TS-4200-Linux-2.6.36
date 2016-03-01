@@ -1,0 +1,12 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/copy.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/io.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/linear.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/mixer_oss.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/mulaw.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_oss.c/1.2/Fri Jan  7 01:18:14 2011/-ko/
+/pcm_plugin.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/pcm_plugin.h/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/rate.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+/route.c/1.1.1.1/Fri Jan  7 00:25:00 2011/-ko/
+D

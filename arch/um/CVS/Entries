@@ -1,0 +1,25 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.char/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.common/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.debug/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.net/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.rest/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.um/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Kconfig.x86/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile-i386/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile-ia64/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile-os-Linux/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile-ppc/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile-skas/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/Makefile-x86_64/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+/defconfig/1.1.1.1/Fri Jan  7 00:24:58 2011/-ko/
+D/drivers////
+D/include////
+D/kernel////
+D/os-Linux////
+D/scripts////
+D/sys-i386////
+D/sys-ia64////
+D/sys-ppc////
+D/sys-x86_64////

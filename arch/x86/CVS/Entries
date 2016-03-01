@@ -1,0 +1,25 @@
+/.gitignore/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Kbuild/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Kconfig/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Kconfig.cpu/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Kconfig.debug/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Makefile/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+/Makefile_32.cpu/1.1.1.1/Fri Jan  7 00:24:51 2011/-ko/
+D/boot////
+D/configs////
+D/crypto////
+D/ia32////
+D/include////
+D/kernel////
+D/kvm////
+D/lguest////
+D/lib////
+D/math-emu////
+D/mm////
+D/oprofile////
+D/pci////
+D/power////
+D/tools////
+D/vdso////
+D/video////
+D/xen////

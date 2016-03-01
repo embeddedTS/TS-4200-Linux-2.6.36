@@ -1,0 +1,16 @@
+/Makefile/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/compat.c/1.2/Fri Jan  7 01:18:13 2011/-ko/
+/compat_mq.c/1.2/Fri Jan  7 01:18:13 2011/-ko/
+/ipc_sysctl.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/ipcns_notifier.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/mq_sysctl.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/mqueue.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/msg.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/msgutil.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/namespace.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/sem.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/shm.c/1.2/Fri Jan  7 01:18:13 2011/-ko/
+/syscall.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/util.c/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+/util.h/1.1.1.1/Fri Jan  7 00:25:05 2011/-ko/
+D
