@@ -256,7 +256,7 @@ config AX88796B
 	select MII
 	help
 	  AX88796B driver, specifically for the PC104-based TS-ETH100 
-	  boards from 	Technologic Systems Inc.
+	  boards from 	embeddedTS Inc.
 
 	  This driver will read the actual jumper settings from the TS-ETH100,
 	  and use them to determine the base address and interrupt.  These 

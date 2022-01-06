@@ -365,10 +365,10 @@ config MACH_STAMP9G20
 	  <http://www.taskit.de/en/>
 
 config MACH_TS42XX
-	bool "Technologic Systems TS-4200 SBC"
+	bool "embeddedTS TS-4200 SBC"
 	help
-	  Select this if you are using Technologic Systems' TS-4200 SBC.
-	  <http://www.embeddedarm.com/>
+	  Select this if you are using embeddedTS' TS-4200 SBC.
+	  <http://www.embeddedTS.com/>
 endif
 
 if (ARCH_AT91SAM9260 || ARCH_AT91SAM9G20)

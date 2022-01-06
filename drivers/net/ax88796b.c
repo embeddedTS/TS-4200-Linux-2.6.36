@@ -6,7 +6,7 @@
  * Asix AX88796 10/100 Ethernet controller support
  *	Based on ne.c, by Donald Becker, et-al.
  *
- * Modified by Technologic systems to work with the ETH-100 board
+ * Modified by embeddedTS to work with the ETH-100 board
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as

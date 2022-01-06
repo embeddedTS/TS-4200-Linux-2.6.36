@@ -272,8 +272,8 @@ static void __init ek_board_init(void)
 #endif
 }
 
-MACHINE_START(TS42XX, "Technologic Systems TS-42xx SBC")
-	/* Maintainer: Technologic Systems */
+MACHINE_START(TS42XX, "embeddedTS TS-42xx SBC")
+	/* Maintainer: embeddedTS */
 	.phys_io	= AT91_BASE_SYS,
 	.io_pg_offst	= (AT91_VA_BASE_SYS >> 18) & 0xfffc,
 	.boot_params	= AT91_SDRAM_BASE + 0x100,
@@ -286,8 +286,8 @@ MACHINE_END
 // Adding the following on the off chance that someone manages to use a new
 // kernel with an old MBR containing the Atmel BSP ID.
 
-MACHINE_START(AT91SAM9G20EK, "Technologic Systems TS-42xx SBC (old ID)")
-	/* Maintainer: Technologic Systems */
+MACHINE_START(AT91SAM9G20EK, "embeddedTS TS-42xx SBC (old ID)")
+	/* Maintainer: embeddedTS */
 	.phys_io	= AT91_BASE_SYS,
 	.io_pg_offst	= (AT91_VA_BASE_SYS >> 18) & 0xfffc,
 	.boot_params	= AT91_SDRAM_BASE + 0x100,
